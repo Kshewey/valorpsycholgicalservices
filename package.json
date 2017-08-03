@@ -1,0 +1,22 @@
+{
+  "name": "kevinshewey",
+  "version": "1.0.0",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-modernizr": "^1.0.0-alpha",
+    "gulp-postcss": "^6.3.0",
+    "gulp-uglify": "^2.0.1",
+    "gulp-watch": "^4.3.11",
+    "normalize": "^0.3.1",
+    "postcss": "^5.2.15",
+    "postcss-hexrgba": "^0.2.1",
+    "postcss-mixins": "^5.4.1",
+    "postcss-nested": "^1.0.0",
+    "postcss-simple-vars": "^3.0.0"
+  },
+  "dependencies": {
+    "normalize.css": "^5.0.0"
+  }
+}

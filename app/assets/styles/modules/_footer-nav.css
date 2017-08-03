@@ -1,0 +1,27 @@
+.footer-nav {
+  margin: auto;
+  width: 50%;
+  color: rgb(209, 39, 108);
+  text-shadow: .05rem .05rem black;
+
+  & ul {
+
+    text-align: center;
+  }
+& li {
+  list-style: none;
+  display: inline;
+  margin-right: 1rem;
+
+
+}
+  & a {
+    color: rgb(209, 39, 108);
+    text-shadow: .05rem .05rem black;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}

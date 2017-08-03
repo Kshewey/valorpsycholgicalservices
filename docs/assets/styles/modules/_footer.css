@@ -1,0 +1,15 @@
+.footer {
+  background: url(/assets/images/headerbanner6.png);    /* color #3f9e8d */
+  border-top: 1px solid grey;
+  color: rgb(209, 39, 108);
+  text-shadow: .05rem .05rem black;
+  font-size: 1.5rem;
+  text-align: center;
+  padding-bottom: 2rem;
+
+  &-divider {
+    width: 60%;
+    border-bottom: 3px solid rgb(18, 5, 81);
+    margin: 1rem auto 0 auto;
+  }
+}

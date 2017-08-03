@@ -1,0 +1,23 @@
+.primary-nav {
+
+  display: flex;
+  justify-content: space-between;
+
+  & p {
+  margin: auto;
+  margin-top: 100px;
+  font-size: 1.8rem;
+  font-family: 'Lato', sans-serif;
+
+  & a {
+  color: rgb(209, 39, 108);
+  text-shadow: .05rem .05rem black;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+  }
+
+}
