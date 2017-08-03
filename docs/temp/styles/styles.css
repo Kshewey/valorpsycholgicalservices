@@ -496,7 +496,8 @@ body {
   padding-top: 3rem;
   padding-bottom: 3rem;
   height: 5.5rem;
-  background: url(/assets/images/headerbanner6.png);    /* color #3f9e8d */
+  background: url(/assets/images/headerbanner6.png) fixed;
+  background-size: cover;
   border-bottom: 1px solid grey;
 
 }
