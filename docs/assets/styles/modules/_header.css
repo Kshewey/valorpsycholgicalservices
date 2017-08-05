@@ -3,19 +3,22 @@
   padding-top: 3rem;
   padding-bottom: 3rem;
   height: 5.5rem;
-  background-image: url("/assets/images/headerbanner6.jpg");    /* color #3f9e8d */
+  background: url(/assets/images/headerbannersix.png) fixed;  /* color #3f9e8d */
+  background-size: cover;
   border-bottom: 1px solid grey;
+
+  &-logo {
+    display: block;
+    height: 110px;
+    margin: auto;
+
+  }
+
+
 
   &-title {
 
 
-
-    & img {
-      display: block;
-      height: 110px;
-      margin: auto;
-
-    }
 
   }
 

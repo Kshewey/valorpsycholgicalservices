@@ -1,5 +1,6 @@
 .footer {
-  background: url(/assets/images/headerbanner6.png);    /* color #3f9e8d */
+  background: url(/assets/images/headerbannersix.png) fixed;  /* color #3f9e8d */
+  background-size: cover;
   border-top: 1px solid grey;
   color: rgb(209, 39, 108);
   text-shadow: .05rem .05rem black;

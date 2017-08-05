@@ -496,16 +496,19 @@ body {
   padding-top: 3rem;
   padding-bottom: 3rem;
   height: 5.5rem;
-  background-image: url("/assets/images/headerbanner6.jpg");    /* color #3f9e8d */
+  background: url(/assets/images/headerbannersix.png) fixed;  /* color #3f9e8d */
+  background-size: cover;
   border-bottom: 1px solid grey;
 
 }
 
-.header-title img {
+.header-logo {
   display: block;
   height: 110px;
   margin: auto;
 }
+
+.header-title {}
 
 .main {
   padding-top: 5rem;
@@ -545,7 +548,8 @@ body {
 
 .main-staff {
   font-size: 1.8rem;
-  background: url(/assets/images/staffbackground.png);/* background-color: rgb(37, 23, 109);*/
+  background: url(/assets/images/staffbackground.png) fixed;/* background-color: rgb(37, 23, 109);*/
+  background-size: cover;
   color: rgb(255, 212, 76);
   text-shadow: .05rem .05rem black;
   border-top: 1px solid grey;
@@ -624,10 +628,12 @@ body {
 .contact {
   margin: auto;
   text-align: center;
+
 }
 
 .footer {
-  background: url(/assets/images/headerbanner6.png);    /* color #3f9e8d */
+  background: url(/assets/images/headerbannersix.png) fixed;  /* color #3f9e8d */
+  background-size: cover;
   border-top: 1px solid grey;
   color: rgb(209, 39, 108);
   text-shadow: .05rem .05rem black;
