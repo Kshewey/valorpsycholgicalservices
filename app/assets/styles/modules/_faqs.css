@@ -1,0 +1,24 @@
+.faqs {
+  padding-top: 5rem;
+  color: rgb(18, 5, 81);
+  font-size: 1.5rem;
+  padding-bottom: 1.5rem;
+
+  & h2 {
+    text-align: center;
+  }
+
+  & li {
+    font-size: 2rem;
+  }
+
+  & p {
+    font-size: 1.25rem;
+  }
+
+
+  &-wrapper {
+    width: 60%;
+    margin: auto;
+}
+}

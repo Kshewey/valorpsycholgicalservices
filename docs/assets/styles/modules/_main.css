@@ -2,6 +2,11 @@
   padding-top: 5rem;
   color: rgb(18, 5, 81);
   font-size: 1.5rem;
+  padding-bottom: 1.5rem;
+
+  & h2 {
+    text-align: center;
+  }
 
   &-wrapper {
     width: 60%;
@@ -38,11 +43,10 @@
 }
 &-staff {
   font-size: 1.8rem;
-  background: url(/assets/images/staffbackground.png) fixed;  /* background-color: rgb(37, 23, 109);*/
+  background: url("/assets/images/headerbanner.png");  /* background-color: rgb(37, 23, 109);*/
   background-size: cover;
-
   color: rgb(255, 212, 76);
-  text-shadow: .05rem .05rem black;
+  text-shadow: .05rem .05rem grey;
   border-top: 1px solid grey;
   border-bottom: 1px solid grey;
   height: 35rem;
@@ -50,6 +54,7 @@
     margin-top: 1.5rem;
     text-align: center;
     font-family: 'Playfair Display SC', serif;
+
   }
   &-wrapper {
     margin-left: 15%;
@@ -65,7 +70,7 @@
     }
   }
   &-bio {
-    color: rgba(233, 230, 249, 1);
+      color: white;
     text-shadow: .05rem .05rem black;
     font-size: 1.2rem;
     line-height: 1.4;

@@ -1,7 +1,7 @@
 .footer-nav {
   margin: auto;
   width: 50%;
-  color: rgb(209, 39, 108);
+  color: rgb(255, 212, 76);
   text-shadow: .05rem .05rem black;
 
   & ul {
@@ -16,7 +16,7 @@
 
 }
   & a {
-    color: rgb(209, 39, 108);
+    color: rgb(255, 212, 76);
     text-shadow: .05rem .05rem black;
     text-decoration: none;
 

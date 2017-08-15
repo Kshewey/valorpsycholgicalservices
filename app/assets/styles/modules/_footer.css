@@ -1,12 +1,16 @@
 .footer {
-  background: url(/assets/images/headerbannersix.png) fixed;  /* color #3f9e8d */
-  background-size: cover;
+  background: url(/assets/images/background12.jpg) no-repeat;
+  background-size: 100%;
   border-top: 1px solid grey;
-  color: rgb(209, 39, 108);
+  color: rgb(255, 212, 76);
   text-shadow: .05rem .05rem black;
   font-size: 1.5rem;
   text-align: center;
   padding-bottom: 2rem;
+
+  & a {
+    color: rgb(255, 212, 76)
+  }
 
   &-divider {
     width: 60%;
