@@ -496,7 +496,7 @@ body {
   padding-top: 3rem;
   padding-bottom: 3rem;
   height: 5.5rem;
-  background: url(../assets/images/background12.jpg) no-repeat;
+  background: url(/assets/images/background12.jpg) no-repeat;
   background-size: 100%;
   border-bottom: 1px solid grey;
 
