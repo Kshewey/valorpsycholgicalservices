@@ -43,7 +43,7 @@
 }
 &-staff {
   font-size: 1.8rem;
-  background: url("assets/images/headerbanner.png");  /* background-color: rgb(37, 23, 109);*/
+  background: url(../../assets/images/headerbanner.png);  /* background-color: rgb(37, 23, 109);*/
   background-size: cover;
   color: rgb(255, 212, 76);
   text-shadow: .05rem .05rem grey;

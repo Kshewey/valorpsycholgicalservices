@@ -496,7 +496,7 @@ body {
   padding-top: 3rem;
   padding-bottom: 3rem;
   height: 5.5rem;
-  background: url(/assets/images/background12.jpg) no-repeat;
+  background: url(../../assets/images/background12.jpg) no-repeat;
   background-size: 100%;
   border-bottom: 1px solid grey;
 
@@ -553,7 +553,7 @@ body {
 
 .main-staff {
   font-size: 1.8rem;
-  background: url("assets/images/headerbanner.png");/* background-color: rgb(37, 23, 109);*/
+  background: url(../../assets/images/headerbanner.png);/* background-color: rgb(37, 23, 109);*/
   background-size: cover;
   color: rgb(255, 212, 76);
   text-shadow: .05rem .05rem grey;
